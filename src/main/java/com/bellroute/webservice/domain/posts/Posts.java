@@ -1,5 +1,6 @@
 package com.bellroute.webservice.domain.posts;
 
+import com.bellroute.webservice.domain.BaseTimeEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;

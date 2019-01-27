@@ -1,4 +1,4 @@
-package com.bellroute.webservice.domain.posts;
+package com.bellroute.webservice.domain;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
